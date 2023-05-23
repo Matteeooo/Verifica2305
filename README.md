@@ -8,7 +8,7 @@ clienti ancora da servire (con in più il nome e cognome del cliente). Implement
 all’aggiunta di un elemento alla collezione e alla ricerca di uno specifico cliente a partire dal numero di telefono, gestendo le eventuali eccezioni. Infine creare una classe Main per poter testare il programma.
 
 ## Sezione 3
-# 3.1
+# 3.1 Descrizione codice
 Classe cliente contiene nome, cognome e numero di telefono, i metodi sono setter, getter, equals e toString
 
 Classe ServizioTaxi serve per la memorizzazioni dei clienti all'interno della HashMap contiene i metodi di aggiunta, rimozione, ricerca e visualizzazione elenco
