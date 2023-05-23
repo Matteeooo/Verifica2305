@@ -27,7 +27,7 @@ git init
 # Comandi usati per il file README.md
 Per aggiungere il file README.md i comandi sono: 
 
-git add README.md
+'''git add README.md'''
 
 git commit -m "messaggio da inserire"
 
