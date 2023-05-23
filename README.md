@@ -19,5 +19,12 @@ Le classi: HashMapPiena, ClienteNonEsistente, ClienteGiaEsistente e HashMapVuota
 La classe Test contiene il main e serve per testare la funzionalità dei metodi
 
 # Comandi usati per il repository
-
+I comandi usati per la creazione del repository sono:
+cd $HOME/Desktop/Verifica2305 
+git init 
 # Comandi usati per il file README.md
+Per aggiungere il file README.md i comandi sono: 
+git add README.md
+git commit -m "messaggio da inserire"
+git branch -M main
+git push https://NomeUtente:token@github.com/NomeUtente/NomeRepository.git
