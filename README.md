@@ -24,6 +24,8 @@ I comandi usati per la creazione del repository sono:
 ```cd $HOME/Desktop/Verifica2305```
 
 ```git init``` 
+
+![1](https://github.com/Matteeooo/Verifica2305/assets/93031778/000b69fe-9bc2-4c82-90dc-a480a165d922)
 # 3.3 Comandi usati per il file README.md
 Per aggiungere il file README.md i comandi sono: 
 
@@ -34,3 +36,7 @@ Per aggiungere il file README.md i comandi sono:
 ```git branch -M main```
 
 ```git push https://NomeUtente:token@github.com/NomeUtente/NomeRepository.git```
+
+Per aggiungere l'immagine si usa il comando:
+
+```![nomeFile.jpg]```
