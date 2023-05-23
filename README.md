@@ -21,16 +21,16 @@ La classe Test contiene il main e serve per testare la funzionalità dei metodi
 # Comandi usati per il repository
 I comandi usati per la creazione del repository sono:
 
-cd $HOME/Desktop/Verifica2305 
+```cd $HOME/Desktop/Verifica2305```
 
-git init 
+```git init``` 
 # Comandi usati per il file README.md
 Per aggiungere il file README.md i comandi sono: 
 
-'''git add README.md'''
+```git add README.md```
 
-git commit -m "messaggio da inserire"
+```git commit -m "messaggio da inserire"```
 
-git branch -M main
+```git branch -M main```
 
-git push https://NomeUtente:token@github.com/NomeUtente/NomeRepository.git
+```git push https://NomeUtente:token@github.com/NomeUtente/NomeRepository.git```
