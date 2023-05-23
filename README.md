@@ -8,8 +8,15 @@ Un servizio di taxi è organizzato in modo tale che dopo aver ricevuto la chiama
 
 ## Sezione 3
 # Descrizione del codice 
+La classe Cliente serve per la gestione del cliente con gli attributi: nome, cognome e verifica, i metodi presenti in questa classe sono: setter, getter, toString e clone
 
-prova
+La classe ServizioTaxi serve per la gestione della HashMap contenente i vari clienti, i metodi che possiamo trovare sono: aggiunta e rimozione cliente, ricerca cliente e visualizzazione dell'elenco
+
+La classe Costanti contiene le costanti del codice, in questo caso solo MAXL
+
+Le classi: HashMapPiena, ClienteNonEsistente, ClienteGiaEsistente e HashMapVuota sono tutte eccezioni lanciate nelle altre classi 
+
+La classe Test contiene il main e serve per testare la funzionalità dei metodi
 
 # Comandi usati per il repository
 
